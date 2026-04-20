@@ -1,1 +1,1 @@
-# com103-midterm_exam
+The purpose of this code is to record and monitor the results of intramural sports games for a class section. It collects the class section name, coordinator's name, and details of the four games played, including the sport, opponent, and game outcome, its either win or lose. Based on wins, it calculates total points and then assigns a standing (like "GOLD CONTENDER") to show how well the section performed overall. Finally, it displays a summary of all the games and the final standing.
